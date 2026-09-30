@@ -1,0 +1,121 @@
+{
+  "experts": [
+    {
+      "id": "maria-martinez",
+      "name": "María Lourdes Martínez",
+      "institution": "Universidad Panamericana",
+      "email": "lmartine@up.edu.mx",
+      "imageUrl": "/Maria.png",
+      "biography": "La Dra. Lourdes Martínez Villaseñor es Ingeniera en Sistemas Computacionales por el Tecnológico de Monterrey Campus Estado de México, Maestra en Educación Familiar por el IPCE de la Universidad Panamericana y Doctora en Ciencias Computacionales del Tecnológico de Monterrey, Campus Estado de México. Es profesora investigadora nivel D en el área de inteligencia artificial en la Universidad Panamericana y jefa académica de la Maestría en Ciencia de Datos. Tiene la distinción de nivel 2 del Sistema Nacional de Investigadores del Conahcyt y de Profesor investigador nivel D de la Universidad Panamericana. Es Presidenta de la Sociedad Mexicana de Inteligencia Artificial. Ganó el premio de Mujer Líder en Inteligencia Artificial Responsable en Norteamérica 2023. Este año es ganadora también del Trailblazer Award – Woman in AI of the Year de Norteamérica 2025. Sus principales intereses de investigación son la inteligencia artificial aplicada al cuidado de la salud, el modelado de usuarios, y la ética de la inteligencia artificial. Ha sido docente por más de 32 años y autora de más de 65 publicaciones en revistas y conferencias internacionales, capítulos de libros y libros en el área de inteligencia artificial.",
+      "panelId": 1
+    },
+    {
+      "id": "juan-sossa",
+      "name": "Juan Humberto Sossa Azuela",
+      "institution": "CIC-IPN",
+      "email": "hsossa@cic.ipn.mx",
+      "imageUrl": "/Juan Humberto Sossa Azuela.jpg",
+      "biography": "Juan Humberto Sossa Azuela es doctor en Informática por el Instituto Nacional Politécnico de Grenoble, Francia. Es profesor de tiempo completo del Instituto Politécnico Nacional y Director del Centro de Investigación en Computación. Es miembro Emérito del Sistema Nacional de Investigadores. Es miembro de la Academia Mexicana de Ciencias y miembro de la Academia de Ingeniería. Es también miembro Senior del Instituto de Ingenieros Eléctricos y Electrónicos (IEEE) y de la Sociedad Internacional de Redes Neuronales (INNS). Es miembro de la Academia de Maquinaria Computacional (ACM) y Fellow de la Sociedad Mexicana de Inteligencia Artificial (SMIA). En 2021 fue galardonado con el Premio Nacional de Computación por parte de la Academia Mexicana de la Computación (AMEXCOMP). En 2023 fue galardonado con el Premio a la Investigación en Instituto Politécnico Nacional en el area de investigación básica. En 2024 recibió por parte del Tecnológico de Estudios Superiores de Ecatepec un Doctorado Honoris Causa. Es autor de 5 libros de texto, 13 patentes, 32 derechos de autor y más de 500 trabajos de congreso y revista. Ha impartido más de 570 pláticas por invitación. Sus áreas de investigación son en Inteligencia Artificial, Aprendizaje para Máquinas, Redes Neuronales Artificiales, Análisis de Imágenes, Reconocimiento de Patrones, Robótica y Metaversos.",
+      "panelId": 1
+    },
+    {
+      "id": "xiaoou-li",
+      "name": "Xiaoou Li",
+      "institution": "Cinvestav",
+      "email": "lixo@cs.cinvestav.mx",
+      "imageUrl": "/xiaoou.jpg",
+      "biography": "Dr. Xiaoou Li is a Researcher and Professor in the Computer Science Department at CINVESTAV-IPN in Mexico. She has also been a Senior Research Fellow at Queen's University Belfast, the University of California Santa Cruz, Shenzhen University, and Northeastern University for her sabbatical leaves. Dr. Li is a member of the Mexican Academy of Science and a Level 3 member of the National Researcher System of Mexico (SNII). She is the author/co-author of over 300 publications in international journals, books, and conference proceedings. Her research interests include machine learning, data mining applications, data-driven sustainable and green automation, robot-assisted rehabilitation systems, and learning in technology-rich environments.  Dr. Li actively organizes academic events and has served as the General Chair of IEEE conferences such as ICNSC 2016 and CASE 2022, and as the Program Chair of SSCI 2023. She has been a member of various editorial boards, including IEEE Press, Engineering Applications of Artificial Intelligence (EAAI), IEEE Transactions on Automation Science and Engineering (T-ASE), IEEE/CAA Journal of Automatica Sinica (JAS), IEEE Access, and IEEE SMC Magazine. She was a member of IEEE James H. Mulligan, Jr. Education Medal Committee (2019-2023).",
+      "panelId": 1
+    },
+    {
+      "id": "genaro-martinez",
+      "name": "Genaro Juarez Martinez",
+      "institution": "ESCOM-IPN",
+      "email": "gjuarezm@ipn.mx",
+      "imageUrl": "/Genaro.png",
+      "biography": "Genaro J. Martínez is a full-time researcher at the National Polytechnic Institute in Mexico City. He is an active member of several institutions and laboratories around the world, such as the International Unconventional Computing Laboratory at the University of the West of England in the United Kingdom; the Foundation of Computer Science Laboratory at the Hiroshima University in Japan; the Center for Chaos and Complex Networks at the City University of Hong Kong in China; the Unconventional Algorithms and Computing Lab at the Technical University of Ostrava in Czech Republic; the Laboratoire de Recherche Scientifique in France, and the Institute des Systemes Complexes en Normandie in France. Prof. Martínez is an editorial member of the Journal of Cellular Automata, Complex Systems, Physica D, International Journal of Bifurcation and Chaos, Artificial Life, Nonlinear Dynamics, Chaos, Information Sciences, International Journal of Natural Computing Research, IEEE Transactions on Circuits and Systems, and the Mathematical Reviews, American Mathematical Society. Prof. Martínez together with prof. Adamatzky had published the book “Designing Beauty: The Art of Cellular Automata”. Also, he is leading two computational paradigms in cellular automata theory: colliders cellular automata and computation by competing patterns with cellular automata.",
+      "panelId": 1
+    },
+    {
+      "id": "joselito-medina",
+      "name": "Joselito Medina Marín",
+      "institution": "Universidad Autónoma del Estado de Hidalgo",
+      "email": "jmedina@uaeh.edu.mx",
+      "imageUrl": "/Joselito.png",
+      "biography": "El Dr. Joselito Medina Marín recibió el grado de Ingeniero en Computación por parte de la Universidad Autónoma de Guerrero en el año de 1997. En el 2002 recibió el grado de Maestro en Ciencias con especialidad en Ingeniería Eléctrica opción Computación, y en el 2005 el grado de Doctor en Ciencias con especialidad en Ingeniería Eléctrica opción Computación, ambos grados fueron otorgados por el Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional (CINVESTAV – IPN). Ha publicado más de 20 artículos en revistas indexadas por el Journal Citation Reports. Ha presentado más de 20 ponencias en congresos internacionales. Además, cuenta con 5 capítulos de libro en publicaciones de Springer. Es coautor de los libros “Solución de Problemas en Ingeniería con Matlab”, “Investigación de Operaciones”, y del libro “Introducción a Matlab para Resolver Problemas de Ingeniería Aplicando Algoritmos Genéticos”. Ha dirigido más de 10 tesis de la Licenciatura en Ingeniería Industrial, Maestría de Ciencias en Ingeniería Industrial, Maestría en Ciencias en Ingeniería de Manufactura, y en el Doctorado en Ciencias en Ingeniería Industrial. Forma parte del Sistema Nacional de Investigadores, con nivel 1. Las líneas de investigación que cultiva incluyen análisis, modelación y optimización de sistemas de ingeniería, teoría de Autómatas, Redes de Petri, bases de datos activas y simulación de eventos discretos. Y actualmente es el Subidrector de Ediciones y Publicaciones de la UAEH.",
+      "panelId": 1
+    },
+    {
+      "id": "lisbeth-rodriguez",
+      "name": "Lisbeth Rodriguez Mazahua",
+      "institution": "Instituto Tecnológico de Orizaba",
+      "email": "lisbethr08@gmail.com",
+      "imageUrl": "/Lisbeth.png",
+      "biography": "Lisbeth Rodríguez-Mazahua got a Ph.D. in Computer Science at Centro de Investigación y de Estudios Avanzados del Instituto Politécnico Nacional (CINVESTAV-IPN) in 2012. Since 2014, she has been a Professor of Computer Science at Instituto Tecnológico de Orizaba, Veracruz, Mexico. Her current research interests include distribution design of databases, database theory, autonomic database systems, multimedia databases, data mining, and big data. She has more than 110 publications in scientific journals, books, and conference proceedings about these topics. She has also led six projects funded by the National Council of Humanities, Sciences, and Technologies (CONAHCYT), the Public Education Secretariat  (SEP), and the National Technology of Mexico. She has supervised 13 postgraduate students. Since 2016, she has been a member of the National Researcher System of Mexico.",
+      "panelId": 1
+    },
+    {
+      "id": "giner-alor",
+      "name": "Giner Alor Hernández",
+      "institution": "Tecnológico Nacional de México",
+      "email": "galor@ito-depi.edu.mx",
+      "imageUrl": "/Giner.png",
+      "biography": "Giner Alor Hernández es Licenciado en Ciencias de la Computación por la Benemérita Universidad Autónoma de Puebla, es Maestro y Doctor en Ciencias por el Centro de Investigación y de Estudios Avanzados del I.P.N. Departamento de Ingeniería Eléctrica, Sección Computación. Es Profesor Investigador de la División de Estudios de Posgrado e Investigación del Instituto Tecnológico de Orizaba, es Miembro del Sistema Nacional de Investigadores nivel 3 del área VIII Ingenierías ante CONACYT y Profesor con reconocimiento de Perfil Deseable ante PRODEP. Cuenta con más de 300 publicaciones en revistas con arbitraje estricto, congresos nacionales e internacionales. Es autor/editor de 8 libros en el área de las ciencias computacionales. Es autor de más de 40 capítulos de libro publicados en editoriales de prestigio. Ha sido editor invitado en más de 14 revistas indizadas en el Journal Citation Reports. Es editor asociado de las revistas IEEE Latin America Transactions y Frontiers in Artificial Intelligence, ambas indizadas en el Journal Citation Reports. Ha impartido más de 40 conferencias y talleres sobre Tecnologías de Información. Cuenta con más de 30 registros de derechos de autor y 5 patentes internacionales. Es miembro del comité científico de más de 50 congresos nacionales e internacionales en el área de computación. Miembro del comité científico de 18 revistas con arbitraje estricto en el área de computación. Es Senior Member del IEEE Computer Society, IEEE Communications Society y Association for Computing Machinery. Es miembro regular de las Sociedad Mexicana de Inteligencia Artificial, Sociedad Mexicana de Ciencias de la Computación y de la Academia Mexicana de Computación. Es miembro fundador de la Red Temática de Investigación de Optimización de Procesos Industriales reconocida por CONACYT. Es líder de la Red de Investigación en Tecnologías Computacionales Aplicadas reconocida por el Tecnológico Nacional de México. Es miembro del comité organizador del International Workshop on Enterprise Decision-Making Applying Artificial Intelligence Techniques (WEDMAIT), International Workshop on Semantic Technologies (IWoSemTech) celebrado en el Encuentro Nacional de Computación (ENC) y del International Workshop on Intelligent Decision Susport Systems for Industry (WIDSSI) efectuado en el Mexican International Conference on Artificial Intelligence (MICAI). Ha sido jurado de tesis doctorales en universidades nacionales e internacionales. Ha participado como evaluador en proyectos de investigación a nivel nacional e internacional. Ha sido director de 21 tesis de licenciatura, 30 tesis de maestría y 8 tesis de doctorado. Ha sido responsable de más de 25 proyectos de investigación con financiamiento y colaborador en más de 15 proyectos de investigación y/o desarrollo tecnológico nacionales e internacionales. Ha sido investigador anfitrión de 10 estancias postdoctorales financiadas por CONACYT. Es ganador del Premio Estatal de Ciencia y Tecnología 2022 en el área de Ingenierías otorgador por el Gobierno del Estado de Veracruz a través del Consejo Veracruzano de Investigación Científica y Desarrollo Tecnológico. Cuenta con más de 4,500 citas a sus trabajos de investigación. Tiene un h-index de 24 en Scopus y un h-index de 34 en Google Scholar.",
+      "panelId": 2
+    },
+    {
+      "id": "bella-martinez",
+      "name": "Bella Martínez Seis",
+      "institution": "UPIITA-IPN",
+      "email": "bcmartinez@ipn.mx",
+      "imageUrl": "/Bella.png",
+      "biography": "Bella Citlali Martinez Seis es Profesor Titular de UPIITA-IPN (Instituto Politécnico Nacional). Recibió el doctorado en Ciencias de la Computación del CINVESTAV-IPN, obtuvo la Maestría en el CIC-IPN y es egresada de ESCOM-IPN. Pertenece al Sistema Nacional de Investigadoras e Investigadores (SNII) y es parte de la mesa directiva de la Sociedad Mexicana de Inteligencia Artificial (SMIA). Sus intereses incluyen Minería de Datos, Ciencia de Datos, Inteligencia Artificial y el Análisis de Redes Sociales. Tiene publicaciones en congresos y revistas internacionales, ha dirigido proyectos de investigación en el IPN, ha colaborado en proyectos CONAHCyT con universidades nacionales y extranjeras, ha asesorado a tesistas de licenciatura y ha impartido y cursado diplomados relacionados con competencias docentes. Tiene vinculación y desarrollos tecnológicos enfocado a comunidades con discapacidad auditiva, salud y sistemas socioecológicos.",
+      "panelId": 2
+    },
+    {
+      "id": "jorge-alvarado",
+      "name": "Jorge Alvarado Sánchez",
+      "institution": "Google",
+      "email": "TBD",
+      "imageUrl": "/default-avatar.jpg",
+      "biography": "",
+      "panelId": 2
+    },
+    {
+      "id": "mario-maya",
+      "name": "Dr. Mario César Maya Rodríguez",
+      "institution": "ESIME (Zacatenco)-IPN",
+      "email": "mmayar@ipn.mx",
+      "imageUrl": "/Mario.png",
+      "biography": "Dr. Mario César Maya Rodríguez obtuvo la Licenciatura en Ingeniería en Control y Automatización por el Instituto Politécnico Nacional (IPN), Ciudad de México, en 2015. Posteriormente, cursó la Maestría y el Doctorado en Control Automático en el Centro de Investigación y de Estudios Avanzados del IPN (CINVESTAV-IPN), concluidos en 2017 y 2022, respectivamente. Sus líneas de investigación incluyen redes neuronales artificiales, aprendizaje por transferencia, meta-aprendizaje, meta-transferencia de aprendizaje, así como identificación y control avanzado de procesos industriales. Cuenta con amplia experiencia en entornos industriales, abarcando el diseño, implementación y documentación de sistemas de control, incluyendo: Programación de dispositivos de automatización; Selección de equipos de control e instrumentación; Integración de protocolos de comunicación industrial; Diseño, construcción y puesta en marcha de estaciones de control. Desde 2023, es reconocido como Investigador Nacional Nivel 1 por el Sistema Nacional de Investigadores (SNI).",
+      "panelId": 2
+    },
+    {
+      "id": "hipolito-aguilar",
+      "name": "Dr. Hipolito Aguilar Sierra",
+      "institution": "Universidad La Salle México",
+      "email": "hipolito.aguilar@lasalle.mx",
+      "imageUrl": "/Hipolito.png",
+      "biography": "Dr. Hipolito Aguilar Sierra es Ingeniero en Mecatrónica por la UPIITA del IPN. Realizó sus estudios de maestría y doctorado en el Departamento de Control Automático del CINVESTAV-IPN, Unidad Zacatenco. Su trayectoria académica incluye cargos como profesor de asignatura en la Universidad del Valle de México Campus San Rafael (2015–2016) y Profesor Investigador Titular B de Tiempo Completo en la Universidad Politécnica de Tulancingo (UPT), donde también fue Jefe del Cuerpo Académico en Instrumentación y Control (2017–2018). Desde 2020, se desempeña como Maestro de Tiempo Completo Investigador B en la Universidad La Salle México, adscrito a la Vicerrectoría de Investigación, donde actualmente lidera el Robotics & AI Solutions iLab, laboratorio enfocado en el desarrollo de soluciones robóticas para la salud, la inclusión y la automatización inteligente. Desde 2025, asumió también la Jefatura del Departamento de Ingeniería, impulsando estrategias de innovación, vinculación y formación en los programas de ingeniería de la institución. Es miembro del Sistema Nacional de Investigadores con el nivel I (2021–2025), ha dirigido tres tesis de maestría y una de doctorado, y cuenta con más de 200 citas académicas. Ha realizado estancias de investigación en el laboratorio Heudiasyc de la Universidad Tecnológica de Compiègne (Francia), en el Centro de Investigación en Ingeniería Mecánica de la Universidad Politécnica de Valencia (España) y en el Laboratorio de Robótica Existencial de la Universidad de California en San Diego (EE. UU.). Sus líneas de investigación se centran en el control automático de robots manipuladores paralelos, el diseño de observadores para diagnóstico de fallas en sistemas no lineales, así como en el desarrollo de exoesqueletos y sistemas de robótica médica orientados a la rehabilitación y el aumento de capacidades físicas.",
+      "panelId": 2
+    },
+    {
+      "id": "luis-soriano",
+      "name": "Dr. Luis Arturo Soriano Avendaño",
+      "institution": "Universidad Autónoma Chapingo",
+      "email": "lasoriano@chapingo.mx",
+      "imageUrl": "/Luis.png",
+      "biography": "Dr. Luis Arturo Soriano nació en la Ciudad de México, México, en 1985. Obtuvo su licenciatura en Robótica Industrial en 2009 y su maestría en Ingeniería de Manufactura en el Instituto Politécnico Nacional de México en 2011. Posteriormente, obtuvo su doctorado en Control Automático en el Centro de Investigación y Estudios Avanzados del IPN, México, en 2016. Actualmente se desempeña como profesor investigador en el Departamento de Ingeniería Mecánica Agrícola de la Universidad Autónoma Chapingo. Sus áreas de investigación incluyen control, robótica, optimización, modelación matemática y energías renovables. El Dr. Soriano es miembro del Sistema Nacional de Investigadores de México Nivel 1 y pionero en la creación de la licenciatura de Inteligencia Artificial en Agricultura.",
+      "panelId": 2
+    },
+    {
+      "id": "andres-rodriguez",
+      "name": "Andrés José Rodríguez Torres",
+      "institution": "Instituto Tecnológico Autónomo de México",
+      "email": "andres.rodriguez.torres@itam.mx",
+      "imageUrl": "/Andres.png",
+      "biography": "Andrés José Rodríguez Torres is a professor and researcher of ITAM - Instituto Tecnológico Autónomo de México, in the fields of automatic control, industrial automation, and mechatronics systems, with extensive experience in developing technological innovation projects, conducting research both nationally and internationally, and providing business consulting services. I am dedicated to educating undergraduate and graduate students, focusing on practical application and scientific advancement to positively impact the academic community and technological development. I have a significant publication record in the areas of vibration control, underactuated systems, and renewable energy, and my multilingual skills facilitate international collaboration.",
+      "panelId": 2
+    }
+  ]
+}

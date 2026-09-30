@@ -1,0 +1,170 @@
+[
+  {
+    "id": "yu-ding",
+    "name": "Yu Ding",
+    "institution": "H. Milton Stewart School of Industrial and Systems Engineering, Georgia Institute of Technology",
+    "topic": "Data Science and Wind Energy",
+    "website": "https://www.isye.gatech.edu/users/yu-ding",
+    "abstract": "The speaker published a book in 2019, entitled 'Data Science for Wind Energy,' in which a set of wind operational problems is framed through a general formulation of f(Y|X), where Y is the response on a turbine and X is the wind and environmental input. When Y is the wind power output, the conditional density, f(Y|X), is related to the power curve model of wind turbines and can be used to characterize a wind turbine's performance and production efficiency. When Y is the mechanical load, the conditional density, f(Y|X), is related to the load estimation and reliability management for the wind turbines. Modeling and understanding the dynamic in X itself is also important, because a good model of X leads to better wind forecasting. The book is therefore structured in three parts: wind field modeling for forecasting, power curve modeling for performance analysis, and turbine reliability and fault detection. In this talk, the speaker will discuss work related to the second part of the book and present examples in which data science solutions make sensible impact.",
+    "biosketch": {
+      "positions": [
+        "Anderson-Interface Chair and Professor, H. Milton Stewart School of Industrial and Systems Engineering, Georgia Institute of Technology",
+        "Former Mike and Sugar Barnes Professor of Industrial and Systems Engineering, Texas A&M University"
+      ],
+      "research_focus": [
+        "Data and quality science",
+        "System informatics"
+      ],
+      "publications": [
+        "Author of CRC Press book: Data Science for Wind Energy",
+        "Co-author of Springer Nature book: Data Science for Nano Image Analysis"
+      ],
+      "awards": [
+        "2019 IISE Technical Innovation Award",
+        "2022 INFORMS Impact Prize",
+        "2024 ASME Blackall Machine Tool and Gage Award",
+        "2024 SME S. M. Wu Research Implementation Award",
+        "2024 IISE Energy Systems Division Career Achievement Award"
+      ],
+      "academic_activities": [
+        "Senior Vice President of IISE on International Operations",
+        "Editor-in-Chief of INFORMS Journal on Data Science",
+        "Program Chair for IEEE CASE 2025",
+        "Former Editor-in-Chief of IISE Transactions (2021-2024)"
+      ]
+    },
+    "language": "",
+    "imageUrl": "/yuding.jpg"
+  },
+  {
+    "id": "juan-sossa",
+    "name": "Juan Humberto Sossa Azuela",
+    "institution": "Computing Research Center, National Polytechnic Institute (IPN), Mexico",
+    "topic": "AI, Metaverse and Education",
+    "website": "https://www.cic.ipn.mx/index.php/juan-humberto-sossa-azuela",
+    "abstract": "Artificial Intelligence is the ability of machines to imitate intelligent human behaviors and develop human-like tasks. It combines algorithms that allow computers to: 1) Perceive their environment, 2) Learn from perceived data, 3) Solve problems, and 4) Make appropriate decisions, with the objective of carrying out functions that until now were only achievable by human beings. A Metaverse, on the other hand, is a shared digital world, where, as users, we can travel and interact through our own avatar in an immersive three-dimensional virtual world. Within a metaverse we can carry out a great variety of activities such as socializing, playing, working, shopping, remotely attending concerts or sporting events, etc. In this talk we will address some details about the horizontal technology of Artificial Intelligence, as well as about the metaverse and what role Artificial Intelligence plays in its establishment. Details will be given about the applications that are coming in the future and the necessary requirements for the establishment and acceptance of what in the near future will be the next digital leap of our humanity.",
+    "biosketch": {
+      "education": [
+        "Doctor en Informática, Instituto Nacional Politécnico de Grenoble, Francia"
+      ],
+      "positions": [
+        "Profesor de tiempo completo, Instituto Politécnico Nacional (IPN), México",
+        "Director, Centro de Investigación en Computación (CIC), IPN"
+      ],
+      "research_focus": [
+        "Inteligencia Artificial",
+        "Aprendizaje para Máquinas",
+        "Redes Neuronales Artificiales",
+        "Análisis de Imágenes",
+        "Reconocimiento de Patrones",
+        "Robótica",
+        "Metaversos"
+      ],
+      "memberships": [
+        "Miembro Emérito del Sistema Nacional de Investigadores (SNI)",
+        "Miembro de la Academia Mexicana de Ciencias",
+        "Miembro de la Academia de Ingeniería",
+        "Miembro Senior del Instituto de Ingenieros Eléctricos y Electrónicos (IEEE)",
+        "Miembro de la Sociedad Internacional de Redes Neuronales (INNS)",
+        "Miembro de la Academia de Maquinaria Computacional (ACM)",
+        "Fellow de la Sociedad Mexicana de Inteligencia Artificial (SMIA)"
+      ],
+      "awards": [
+        "2021 Premio Nacional de Computación, Academia Mexicana de la Computación (AMEXCOMP)",
+        "2023 Premio a la Investigación en Instituto Politécnico Nacional (área de investigación básica)",
+        "2024 Doctorado Honoris Causa, Tecnológico de Estudios Superiores de Ecatepec"
+      ],
+      "publications": [
+        "Autor de 5 libros de texto",
+        "13 patentes",
+        "32 derechos de autor",
+        "Más de 500 trabajos de congreso y revista",
+        "Más de 580 pláticas por invitación"
+      ]
+    },
+    "language": "",
+    "imageUrl": "/Juan Humberto Sossa Azuela.jpg"
+  },
+  {
+    "id": "kai-sonder",
+    "name": "Dr. Kai Sonder",
+    "institution": "CIMMYT (International Maize and Wheat Improvement Center)",
+    "topic": "Brave new world, use of AI in agricultural research",
+    "website": "https://www.linkedin.com/in/kai-sonder-2814957?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    "abstract": "Artificial Intelligence (AI) is rapidly transforming agriculture, from research to farm support. Within the CGIAR network, machine learning is applied to extrapolate soil, climate, and pest data with greater accuracy, improving soil maps, fertilizer recommendations, and climate adaptation strategies. Combined with advances in remote sensing and satellite imagery, AI enables near real-time insights on crop types, land-use change, and early detection of plant diseases, with hyperspectral data offering new opportunities to monitor traits and variety adoption. At CIMMYT, AI is also accelerating the analysis of the world's largest maize and wheat gene bank, helping identify traits like drought tolerance and disease resistance, and reducing the time and cost of breeding new resilient varieties. In parallel, large language models (LLMs) are being explored as cost-effective tools for agricultural extension, delivering site-specific advice to farmers, including those in remote areas. Yet, as adoption spreads, ethical challenges remain concerning energy use, environmental footprint, and data quality, which must be carefully addressed to ensure sustainable and responsible AI deployment.",
+    "biosketch": {
+      "education": [
+        "Ph.D. in Agricultural Sciences, University of Hohenheim, Stuttgart, Germany (Research conducted at CIAT, Cali, Colombia, focusing on soil conservation and erosion modeling on the southern Andean slopes of Colombia)",
+        "M.Sc. in Tropical Plant Breeding and Agroecology, Justus-Liebig University, Giessen, Germany"
+      ],
+      "positions": [
+        "Spatial Data Scientist and Head of Geographic Information Systems (GIS) Unit, CIMMYT",
+        "Former Manager, Geospatial Laboratory, International Institute of Tropical Agriculture (IITA), Ibadan, Nigeria",
+        "Former Postdoctoral Fellow, International Livestock Research Institute (ILRI), Addis Ababa, Ethiopia"
+      ],
+      "research_focus": [
+        "Technology targeting and precision agriculture",
+        "Crop disease risk modeling and forecasting",
+        "Climate change impact assessment on maize and wheat production systems",
+        "Geospatial analysis for agricultural development",
+        "Soil conservation and erosion modeling"
+      ],
+      "work_at_cimmyt": [
+        "Leading CIMMYT's Geographic Information Systems (GIS) Unit",
+        "Technology targeting for agricultural innovations",
+        "Crop disease risk modeling and forecasting systems",
+        "Assessing climate change impacts on maize and wheat production systems"
+      ],
+      "work_at_iita": [
+        "Spatial analysis of major crops: maize, cassava, cowpea, yam, banana/plantain, and soybean in Sub-Saharan Africa",
+        "Socioeconomic analysis of agricultural value chains",
+        "Impact assessment of crop production systems"
+      ],
+      "work_at_ilri": [
+        "Research on forage trees in semi-arid areas and highland valley areas",
+        "Geospatial analysis of animal productivity in the Nile Basin",
+        "Water use analysis in relation to livestock productivity",
+        "GIS applications for Forage Genetic Resources Unit",
+        "Support for Animal Genetic Resources Projects"
+      ]
+    },
+    "language": "",
+    "imageUrl": "/Kai_Sonder.jpg"
+  },
+  {
+    "id": "xiaoou-li",
+    "name": "Xiaoou Li",
+    "institution": "Computer Science Department, CINVESTAV-IPN, Mexico",
+    "topic": "Navigating the Data Gaps: Time Series Forecasting with Incomplete Information",
+    "website": "https://delta.cs.cinvestav.mx/~lixo/",
+    "abstract": "Time series forecasting is a cornerstone of modern data-driven decision-making, from predicting stock prices to managing energy consumption. However, the integrity of these forecasts is critically challenged by a pervasive and often overlooked issue: missing data. This is particularly pronounced in real-world systems like smart buildings, where sensor failures, network outages, and other disruptions lead to incomplete time series. This talk will explore the fundamental problem of building resilient forecasting models that can handle these data gaps. While drawing from our recent work on robust electricity forecasting using a Concept Echo State Network (CESN), we will generalize the discussion to a broader framework applicable across various domains. We will present a novel approach that not only maintains high accuracy but also delivers meaningful insights, even when faced with imperfect information. This research aims to provide a path forward for advancing data-driven decision-making in a world where data is often incomplete.",
+    "biosketch": {
+      "positions": [
+        "Researcher and Professor, Computer Science Department, CINVESTAV-IPN, Mexico",
+        "Senior Research Fellow, Queen's University Belfast, University of California Santa Cruz, Shenzhen University, Northeastern University"
+      ],
+      "research_focus": [
+        "Machine learning",
+        "Data mining applications",
+        "Data-driven sustainable and green automation",
+        "Robot-assisted rehabilitation systems",
+        "Learning in technology-rich environments"
+      ],
+      "publications": [
+        "Author/co-author of over 300 publications in international journals, books, and conference proceedings"
+      ],
+      "academic_activities": [
+        "General Chair, IEEE ICNSC 2016, IEEE CASE 2022",
+        "Program Chair, SSCI 2023",
+        "Editorial Board Member, IEEE Press, Engineering Applications of Artificial Intelligence (EAAI), IEEE Transactions on Automation Science and Engineering (T-ASE), IEEE/CAA Journal of Automatica Sinica (JAS), IEEE Access, IEEE SMC Magazine"
+      ],
+      "memberships": [
+        "Member, Mexican Academy of Science",
+        "Level 3 member, National Researcher System of Mexico (SNII)",
+        "Former member, IEEE James H. Mulligan, Jr. Education Medal Committee (2019-2023)"
+      ]
+    },
+    "language": "",
+    "imageUrl": "/xiaoou.jpg"
+  }
+]

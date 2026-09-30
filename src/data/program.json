@@ -1,0 +1,94 @@
+{
+  "days": [
+    {
+      "date": "October 13, 2025",
+      "activities": "",
+      "schedule": [
+        {
+          "time": "10:00 - 10:30",
+          "activity": "Opening Session",
+          "presenter": "",
+          "location": ""
+        },
+        {
+          "time": "10:30 - 11:30",
+          "activity": "Keynote 1. Data Science for Wind Energy",
+          "presenter": "Dr. Yu Ding (Online, English)",
+          "location": "Auditorio del Departamento de Ingeniería Eléctrica"
+        },
+        {
+          "time": "11:30 - 12:00",
+          "activity": "Coffee Break",
+          "presenter": "",
+          "location": ""
+        },
+        {
+          "time": "12:00 - 13:00",
+          "activity": "Keynote 2. AI, Metaverse and Education",
+          "presenter": "Dr. Juan Humberto Sossa Azuela",
+          "location": "Auditorio del Departamento de Ingeniería Eléctrica"
+        },
+        {
+          "time": "13:00 - 15:00",
+          "activity": "Lunch",
+          "presenter": "",
+          "location": ""
+        },
+        {
+          "time": "15:00 - 16:30",
+          "activity": "Panel 1. Education in the AI Era",
+          "presenter": "",
+          "location": "Auditorio del Departamento de Ingeniería Eléctrica"
+        },
+        {
+          "time": "16:30 - 17:30",
+          "activity": "Poster Session",
+          "presenter": "",
+          "location": "Auditorio del Departamento de Ingeniería Eléctrica"
+        }
+      ]
+    },
+    {
+      "date": "October 14, 2025",
+      "activities": "",
+      "schedule": [
+        {
+          "time": "10:30 - 11:30",
+          "activity": "Keynote 3. Brave new world, use of AI in agricultural research",
+          "presenter": "Dr. Kai Sonder",
+          "location": "Auditorio del Departamento de Ingeniería Eléctrica"
+        },
+        {
+          "time": "11:30 - 12:00",
+          "activity": "Coffee Break",
+          "presenter": "",
+          "location": ""
+        },
+        {
+          "time": "12:00 - 13:00",
+          "activity": "Keynote 4. Navigating the Data Gaps: Time Series Forecasting with Incomplete Information",
+          "presenter": "Dr. Xiaoou Li",
+          "location": "Auditorio del Departamento de Ingeniería Eléctrica"
+        },
+        {
+          "time": "13:00 - 15:00",
+          "activity": "Lunch",
+          "presenter": "",
+          "location": ""
+        },
+        {
+          "time": "15:00 - 16:30",
+          "activity": "Panel 2. Opportunities for AI application in Mexico",
+          "presenter": "",
+          "location": "Auditorio del Departamento de Ingeniería Eléctrica"
+        },
+        {
+          "time": "16:30 - 17:30",
+          "activity": "Poster Session",
+          "presenter": "",
+          "location": "Auditorio del Departamento de Ingeniería Eléctrica"
+        }
+      ]
+    }
+  ]
+}
